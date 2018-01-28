@@ -1,16 +1,16 @@
 #Created by Jackson Hoagland on 1/27/2018
 
 welcome_message = "Welcome to Line Complete. This program will complete repetitive typing tasks for you.\n\n" \
-                "To begin, type your text pattern as follows using \"{}\" to indicate a variable location:\n" \
-                "[Your text 1 here]{}[Your text 2 here]{}\n" \
-                "Once you have entered your pattern, enter the comma separated variables you wish to fill the pattern with.\n\n" \
-                "For example:\n" \
-                "My favorite color is {} and my favorite number is {}.\n" \
-                "Green, Blue\n" \
-                "9,100\n\n" \
-                "Will output:\n" \
-                "My favorite color is Green and my favorite number is 9\n" \
-                "My favorite color is Blue and my favorite number is 100\n"
+                  "To begin, type your text pattern as follows using \"{}\" to indicate a variable location:\n" \
+                  "[Your text 1 here]{}[Your text 2 here]{}\n" \
+                  "Once you have entered your pattern, enter the comma separated variables you wish to fill the pattern with.\n\n" \
+                  "For example:\n" \
+                  "My favorite color is {} and my favorite number is {}.\n" \
+                  "Green, Blue\n" \
+                  "9,100\n\n" \
+                  "Will output:\n" \
+                  "My favorite color is Green and my favorite number is 9\n" \
+                  "My favorite color is Blue and my favorite number is 100\n"
 
 enter_pattern_message = "Please enter your text pattern:\n"
 
